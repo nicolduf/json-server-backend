@@ -1,33 +1,88 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
+  "Movies": [
+      {
+          "ID": 1,
+          "Title": "When Hagrid met Sally",
+          "Year": 2005,
+          "Rating": 4,
+          "ImageUrl": "https://wallpaperaccess.com/full/314204.jpg"
+      },
+      {
+          "ID": 2,
+          "Title": "The wolf of Hogwarts",
+          "Year": 2010,
+          "Rating": 3,
+          "ImageUrl": "https://wallpaperaccess.com/full/314123.jpg"
+      },
+      {
+          "ID": 3,
+          "Title": "Jurrasic Potter",
+          "Year": 2018,
+          "Rating": 5,
+          "ImageUrl": "https://wallpaperaccess.com/full/515937.png"
+      },
+      {
+          "ID": 4,
+          "Title": "The Half-Blood Prince of Bel-Air",
+          "Year": 2003,
+          "Rating": 2,
+          "ImageUrl": "https://wallpaperaccess.com/full/940123.jpg"
+      },
+      {
+          "ID": 5,
+          "Title": "Fantastic Beasts and Where to Find Dory",
+          "Year": 2016,
+          "Rating": 1,
+          "ImageUrl": "https://wallpaperaccess.com/full/940130.jpg"
+      },
+      {
+          "ID": 6,
+          "Title": "A Muggle's Guide to the Galaxy",
+          "Year": 2015,
+          "Rating": 4,
+          "ImageUrl": "https://wallpaperaccess.com/full/314142.jpg"
+      },
+      {
+          "ID": 7,
+          "Title": "Ginny Weasley: The Chamber of Love",
+          "Year": 2008,
+          "Rating": 3,
+          "ImageUrl": "https://wallpaperaccess.com/full/314143.jpg"
+      },
+      {
+          "ID": 8,
+          "Title": "Harry Potter and the midlife crisis of magic",
+          "Year": 2022,
+          "Rating": 5,
+          "ImageUrl": "https://wallpaperaccess.com/full/314216.jpg"
+      },
+      {
+          "ID": 9,
+          "Title": "Harry Potter and the mischief of Hogwarts",
+          "Year": 2014,
+          "Rating": 2,
+          "ImageUrl": "https://wallpaperaccess.com/full/22917.jpg"
+      },
+      {
+          "ID": 10,
+          "Title": "Dumbledore's Magic Cooking Show",
+          "Year": 2004,
+          "Rating": 4,
+          "ImageUrl": "https://wallpaperaccess.com/full/276565.jpg"
+      },
+      {
+          "ID": 11,
+          "Title": "Harry Potter and the trial of Amber Heard",
+          "Year": 2019,
+          "Rating": 3,
+          "ImageUrl": "https://wallpaperaccess.com/full/940124.jpg"
+      },
+      {
+          "ID": 12,
+          "Title": "Harry Potter Snoop Dogg and Joe Biden, friends for life!",
+          "Year": 2007,
+          "Rating": 1,
+          "ImageUrl": "https://wallpaperaccess.com/full/314129.jpg"
+      }
   ]
 }
