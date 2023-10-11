@@ -1,88 +1,88 @@
 {
   "Movies": [
-      {
-          "id": 1,
-          "title": "When Hagrid met Sally",
-          "year": 2005,
-          "rating": 4,
-          "imageUrl": "https://wallpaperaccess.com/full/314204.jpg"
-      },
-      {
-          "id": 2,
-          "title": "The wolf of Hogwarts",
-          "year": 2010,
-          "rating": 3,
-          "imageUrl": "https://wallpaperaccess.com/full/314123.jpg"
-      },
-      {
-          "id": 3,
-          "title": "Jurrasic Potter",
-          "year": 2018,
-          "rating": 5,
-          "imageUrl": "https://wallpaperaccess.com/full/515937.png"
-      },
-      {
-          "id": 4,
-          "title": "The Half-Blood Prince of Bel-Air",
-          "year": 2003,
-          "rating": 2,
-          "imageUrl": "https://wallpaperaccess.com/full/940123.jpg"
-      },
-      {
-          "id": 5,
-          "title": "Fantastic Beasts and Where to Find Dory",
-          "year": 2016,
-          "rating": 1,
-          "imageUrl": "https://wallpaperaccess.com/full/940130.jpg"
-      },
-      {
-          "id": 6,
-          "title": "A Muggle's Guide to the Galaxy",
-          "year": 2015,
-          "rating": 4,
-          "imageUrl": "https://wallpaperaccess.com/full/314142.jpg"
-      },
-      {
-          "id": 7,
-          "title": "Ginny Weasley: The Chamber of Love",
-          "year": 2008,
-          "rating": 3,
-          "imageUrl": "https://wallpaperaccess.com/full/314143.jpg"
-      },
-      {
-          "id": 8,
-          "title": "Harry Potter and the midlife crisis of magic",
-          "year": 2022,
-          "rating": 5,
-          "imageUrl": "https://wallpaperaccess.com/full/314216.jpg"
-      },
-      {
-          "id": 9,
-          "title": "Harry Potter and the mischief of Hogwarts",
-          "year": 2014,
-          "rating": 2,
-          "imageUrl": "https://wallpaperaccess.com/full/22917.jpg"
-      },
-      {
-          "id": 10,
-          "title": "Dumbledore's Magic Cooking Show",
-          "year": 2004,
-          "rating": 4,
-          "imageUrl": "https://wallpaperaccess.com/full/276565.jpg"
-      },
-      {
-          "id": 11,
-          "title": "Harry Potter and the trial of Amber Heard",
-          "year": 2019,
-          "rating": 3,
-          "imageUrl": "https://wallpaperaccess.com/full/940124.jpg"
-      },
-      {
-          "id": 12,
-          "title": "Harry Potter Snoop Dogg and Joe Biden, friends for life!",
-          "year": 2007,
-          "rating": 1,
-          "imageUrl": "https://wallpaperaccess.com/full/314129.jpg"
-      }
+    {
+      "id": 1,
+      "title": "When Hagrid met Sally",
+      "year": 2005,
+      "rating": 4,
+      "imageUrl": "https://wallpaperaccess.com/full/314204.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The wolf of Hogwarts",
+      "year": 2010,
+      "rating": 3,
+      "imageUrl": "https://wallpaperaccess.com/full/314123.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Jurrasic Potter",
+      "year": 2018,
+      "rating": 5,
+      "imageUrl": "https://wallpaperaccess.com/full/515937.png"
+    },
+    {
+      "id": 4,
+      "title": "The Half-Blood Prince of Bel-Air",
+      "year": 2003,
+      "rating": 2,
+      "imageUrl": "https://wallpaperaccess.com/full/940123.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fantastic Beasts and Where to Find Dory",
+      "year": 2016,
+      "rating": 1,
+      "imageUrl": "https://wallpaperaccess.com/full/940130.jpg"
+    },
+    {
+      "id": 6,
+      "title": "A Muggle's Guide to the Galaxy",
+      "year": 2015,
+      "rating": 4,
+      "imageUrl": "https://wallpaperaccess.com/full/314142.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ginny Weasley: The Chamber of Love",
+      "year": 2008,
+      "rating": 3,
+      "imageUrl": "https://wallpaperaccess.com/full/314143.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Harry Potter and the midlife crisis of magic",
+      "year": 2022,
+      "rating": 5,
+      "imageUrl": "https://wallpaperaccess.com/full/314216.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter and the mischief of Hogwarts",
+      "year": 2014,
+      "rating": 2,
+      "imageUrl": "https://wallpaperaccess.com/full/22917.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Dumbledore's Magic Cooking Show",
+      "year": 2004,
+      "rating": 4,
+      "imageUrl": "https://wallpaperaccess.com/full/276565.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Harry Potter and the trial of Amber Heard",
+      "year": 2019,
+      "rating": 3,
+      "imageUrl": "https://wallpaperaccess.com/full/940124.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Harry Potter Snoop Dogg and Joe Biden, friends for life!",
+      "year": 2007,
+      "rating": 1,
+      "imageUrl": "https://wallpaperaccess.com/full/314129.jpg"
+    }
   ]
 }
