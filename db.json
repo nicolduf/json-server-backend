@@ -5,84 +5,97 @@
       "title": "When Hagrid met Sally",
       "year": 2005,
       "rating": 4,
-      "imageUrl": "https://wallpaperaccess.com/full/314204.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/314204.jpg",
+      "review": "An unforgettable cinematic masterpiece that will leave you speechless."
     },
     {
       "id": 2,
       "title": "The wolf of Hogwarts",
       "year": 2010,
       "rating": 3,
-      "imageUrl": "https://wallpaperaccess.com/full/314123.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/314123.jpg",
+      "review": "A breathtaking journey that pushes the boundaries of storytelling in film." 
     },
     {
       "id": 3,
       "title": "Jurrasic Potter",
       "year": 2018,
       "rating": 5,
-      "imageUrl": "https://wallpaperaccess.com/full/515937.png"
+      "imageUrl": "https://wallpaperaccess.com/full/515937.png",
+      "review": "Incredible performances and stunning visuals make this a must-see movie event."
     },
     {
       "id": 4,
       "title": "The Half-Blood Prince of Bel-Air",
       "year": 2003,
       "rating": 2,
-      "imageUrl": "https://wallpaperaccess.com/full/940123.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/940123.jpg",
+      "review": "A tour de force of suspense and emotion. A cinematic triumph."
+
     },
     {
       "id": 5,
       "title": "Fantastic Beasts and Where to Find Dory",
       "year": 2016,
       "rating": 1,
-      "imageUrl": "https://wallpaperaccess.com/full/940130.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/940130.jpg",
+      "review": "An epic spectacle that will transport you to another world. Movie magic at its finest."
     },
     {
       "id": 6,
       "title": "A Muggle's Guide to the Galaxy",
       "year": 2015,
       "rating": 4,
-      "imageUrl": "https://wallpaperaccess.com/full/314142.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/314142.jpg",
+      "review": "A brilliantly directed film that keeps you on the edge of your seat from start to finish."
     },
     {
       "id": 7,
       "title": "Ginny Weasley: The Chamber of Love",
       "year": 2008,
       "rating": 3,
-      "imageUrl": "https://wallpaperaccess.com/full/314143.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/314143.jpg",
+      "review": "A thought-provoking and emotionally resonant story that lingers long after the credits roll." 
     },
     {
       "id": 8,
       "title": "Harry Potter and the midlife crisis of magic",
       "year": 2022,
       "rating": 5,
-      "imageUrl": "https://wallpaperaccess.com/full/314216.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/314216.jpg",
+      "review": "A gripping and intense cinematic experience that will leave you craving more."
     },
     {
       "id": 9,
       "title": "Harry Potter and the mischief of Hogwarts",
       "year": 2014,
       "rating": 2,
-      "imageUrl": "https://wallpaperaccess.com/full/22917.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/22917.jpg",
+      "review": "An instant classic that will be cherished by film enthusiasts for generations."
     },
     {
       "id": 10,
       "title": "Dumbledore's Magic Cooking Show",
       "year": 2004,
       "rating": 4,
-      "imageUrl": "https://wallpaperaccess.com/full/276565.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/276565.jpg",
+      "review": "A visual feast for the eyes and a heartfelt journey for the soul. Truly extraordinary."
     },
     {
       "id": 11,
       "title": "Harry Potter and the trial of Amber Heard",
       "year": 2019,
       "rating": 3,
-      "imageUrl": "https://wallpaperaccess.com/full/940124.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/940124.jpg",
+      "review": "A riveting and powerful film that leaves an indelible mark on your heart."
     },
     {
       "id": 12,
       "title": "Harry Potter Snoop Dogg and Joe Biden, friends for life!",
       "year": 2007,
       "rating": 1,
-      "imageUrl": "https://wallpaperaccess.com/full/314129.jpg"
+      "imageUrl": "https://wallpaperaccess.com/full/314129.jpg",
+      "review": "A rare gem in modern cinema. Prepare to be moved, inspired, and awed." 
     }
   ]
 }
